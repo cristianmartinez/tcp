@@ -1,0 +1,8 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cristianmartinez/tcp.git",
+  "author": "Cristian Martinez <dev.cmartinez@gmail.com>",
+  "license": "MIT"
+}
